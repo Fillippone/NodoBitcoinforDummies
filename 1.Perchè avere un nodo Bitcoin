@@ -3,17 +3,9 @@
 
 1. **Irrobustire il network Bitcoin**
 
-I nodi sono i punti più importanti della rete Bitcoin: si occupano di verificare
-che tutte le transazioni, e quindi i blocchi che vengono in contatto con il nodo
-seguano le regole del protocollo. Gestire il proprio nodo significa quindi
-assicurare alla rete bitcoin un ulteriore punto di controllo sulle regole del
-protocollo Bitcoin: il nostro nodo inoltrerà ai nodi connessi nella rete
-solamente le transazioni ed i blocchi che ne rispettino le regole. Al contempo
-tutto quello visto dal nostro nodo, maal di fuori di queste regole non sarebbero
-inoltrato, rendendo quindi la rete intrinsecamente più resiliente: sono i nodi
-che quindi in ultima istanza validano la longest proff of work chain,
-assicurando che alla fine siano sempre integralmente seguite le regole del
-protocollo.
+I nodi sono i punti più importanti della rete Bitcoin: si occupano di verificare che tutte le transazioni, e quindi i blocchi che vengono in contatto con il nodo seguano le regole del protocollo. Gestire il proprio nodo significa quindi assicurare alla rete bitcoin un ulteriore punto di controllo sulle regole del protocollo Bitcoin: il nostro nodo inoltrerà ai nodi connessi nella rete
+solamente le transazioni ed i blocchi che ne rispettino le regole. Al contempo tutto quello visto dal nostro nodo, maal di fuori di queste regole non sarebbero inoltrato, rendendo quindi la rete intrinsecamente più resiliente: sono i nodi
+che quindi in ultima istanza validano la longest proff of work chain, assicurando che alla fine siano sempre integralmente seguite le regole del protocollo.
 
 2. **Garantire la sicurezza delle proprie transazioni: Don’t trust , verify.**
 
