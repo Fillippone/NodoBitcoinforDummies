@@ -1,0 +1,140 @@
+**Preparativi**
+
+Di seguito elencherò tutto quello di cui avrete bisogno. Diciamo che cercherò di
+essere più esaustivo possibile, per cercare soprattutto di evitare che dobbiate
+andare alla ricerca di qualcosa su Amazon all’ultimo secondo: non darò nulla per
+scontato, nella sezione hardware elencherò tutto fino all’ultimo cavetto.
+Ovviamente sarà possibile riciclare quello che avrete in casa.
+
+Dove possibile inserirò il link Amazon di quello che vedrete, è solo un
+suggerimento per rendervi la vita facile, non guadagno nulla dai link.
+
+**Componenti Hardware**
+
+1.  Raspberry Pi 3 Model B+.
+
+Questo computer-on-a-chip sarà il cuore del nostro nodo, il costo dell’hardware
+è limitato, così come il consumo di corrente, permettendovi quindi di tenere
+acceso il nodo H24 (uno degli aspetti più importanti per un nodo Bitcoin)
+
+[Link Amazon:
+Raspberry](https://www.amazon.it/gp/product/B07BDR5PDW/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+
+1.  Case per il Raspberry
+
+Abbiamo intenzione di fare funzionare a lungo il nostro nodo. Nella migliore
+delle ipotesi finirà dimenticato da qualche parte, facendo il suo silenzioso
+lavoro per anni. Il fido Raspberry si merita quindi un case che lo difenda dalla
+polvere. Ho trovato una versione trasparente con in omaggio alcuni graditi
+dissipatori per i chip. Il montaggio è davvero semplice: i dissipatori hanno
+degli adesivi che permettono di incollarli sui chip del Raspberry. Per fissare
+la scheda al case ci sono 3 viti (cacciavite incluso). Per il nostro uso forse
+vi sono troppe aperture in corrispondenza di porte non usate: si possono
+chiudere con del nastro adesivo o degli sticker per evitare che entri troppa
+polvere.
+
+[Link Amazon:
+Case](https://www.amazon.it/gp/product/B00UCSO6SW/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+
+1.  Hard disk esterno USB 3.0 da 500 GB o più.
+
+The bigger, the better. La blockchain attualmente è circa 200GB e cresce al
+ritmo di 10 GB al mese. 500 GB sono più che sufficienti. Io ho trovato
+un’offerta per un disco da 1 TB e ne ho approfittato (sono a posto per 6 anni).
+
+[Link Amazon:
+HDD](https://www.amazon.it/gp/product/B07997KKSK/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+
+1.  Hub USB Esterno alimentato.
+
+Il Raspberry è sulla carta in grado di alimentare l’HDD esterno, ma di fatto
+l’amperaggio della porta è insufficiente. Per far funzionare correttamente il
+tutto, la soluzione più facile è acquistare un hub esterno alimentato. Ho
+trovato questo che si presenta bene esteticamente, anche se ha nella confezione
+l’alimentatore esterno che di fatto non useremo. Magari voi sarete più bravi e
+riuscite a trovarne uno più adatto alle nostre esigenze.
+
+[Link Amazon: Hub
+USB](https://www.amazon.it/gp/product/B0192W3HX8/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+
+1.  Micro SD 8GB o più
+
+Ancora una volta ho approfittato di una promozione e ho comprato una scheda da
+32 GB.
+
+[Link Amazon: Micro
+SD](https://www.amazon.it/gp/product/B06XFSZGCC/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1)
+
+1.  Alimentatore USB: due porte da 2A
+
+Per dare energia al nostro nodo dobbiamo alimentare Raspberry ed HD. Ho scelto
+questo alimentatore perché è in grado di assicurare fino a 2A per ciascuna delle
+due porte: più che sufficiente per fare funzionare il tutto.
+
+[Link Amazon:
+Alimentatore](https://www.amazon.it/gp/product/B01BELJRBQ/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+
+1.  Cavi USB per la ricarica. Due cavi USB per i collegamenti elettrici,
+    sceglieteli resistenti, visto che serviranno solo al collegamento elettrico
+    lo standard non importa, basta che siano resistenti. Io ho scelto questa
+    versione da 30 cm, più che sufficienti allo scopo (meno cavi in giro, meno
+    disordine nell’assemblaggio).
+
+[Link Amazon: Cavi USB
+ricarica](https://www.amazon.it/gp/product/B019PZPYK6/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+
+1.  Cavo di rete Ethernet.
+
+>   Per collegare il Raspberry al router. Anche qui basta un cavo da 30 cm.
+
+1.  Connessione ad Internet permanente + porta libera sul Router
+
+>   Il nodo Bitcoin consuma traffico, per il normale funzionamento potrete
+>   aspettarvi circa 2 Gigabyte al giorno in ricezione, più circa 20 GB al
+>   giorno in upload, sia per il broadcast delle transazioni, sia per tenere
+>   conto delle connessioni di altri nodi che vorranno scaricarsi blockchain.
+>   Vedremo che vi nono numerosi parametri da configurare per trovare il consumo
+>   ottimale, con il giusto bilanciamento a secondo della connessione, necessità
+>   di ciascuno. Sebbene il Raspberry sia dotato di un modulo Wi-Fi, vista la
+>   mole di dati vorrete che il vostro sia collegato alla rete via cavo: per
+>   questo è necessario che abbiate almeno una porta ethernet libera sul Router/
+>   Modem Router.
+
+>   In aggiunta ai componenti sopra elencati, che sono quelli strettamente
+>   necessari al funzionamento del nodo, dovrete anche avere a portata di mano
+>   altri componenti solamente per il setup iniziale del medesimo:
+
+1.  PC
+
+>   Vi avevo avvertito che la guida sarebbe stata completa vero? Avremo bisogno
+>   di un PC per il setup iniziale del sistema operativo del Raspberry,
+>   scaricare la blockchain e configurare il Raspberry nella rete domestica.
+
+1.  Tastiera USB
+
+>   Per inizializzare il Raspberry la prima volta avremo bisogno di collegare
+>   una tastiera USB: potrà sembrare banale, ma in epoca di tablet e laptop
+>   potrebbe non essere facile recuperarne una (quella che vedete è stata
+>   momentaneamente cannibalizzata dal KANO di un componente della mia
+>   famiglia).
+
+1.  Adattatore Micro USB
+
+>   Per formattare e copiare il software dal PC. Va bene un qualsiasi lettore di
+>   SD Micro o qualsiasi formato di adattatore abbia la vostra scheda.
+
+1.  Cavo HDMI
+
+Avremo bisogno di connettere il Raspberry ad un monitor prima dio poterne
+configurare l’accesso da remoto. Basta un normalissimo cavo HDMI.
+
+![](media/b8b345580e0b7bd33aaa3180414cc363.jpg)
+
+>   Immagine che contiene tavolo, interni, articoli Descrizione generata con
+>   affidabilità molto elevata
+
+Figura . Some assembly required
+
+![Immagine che contiene interni, computer, tastiera, elettronico Descrizione generata con affidabilità molto elevata](media/50d217771e5489e56ab3cf0472cbaecf.jpg)
+
+Figura Materiale Temporaneo
