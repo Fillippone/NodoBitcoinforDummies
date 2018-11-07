@@ -1,5 +1,5 @@
-Perchè avere un proprio nodo bitcoin?
-=====================================
+# Perchè avere un proprio nodo bitcoin?
+
 
 1. **Irrobustire il network Bitcoin**
 
@@ -57,7 +57,7 @@ sempre meno costoso connessione a banda larga inclusa. Per chi non avesse voglia
 di intraprendere questo viaggio, sono diponibili anche delle soluzioni “chiavi
 in mano” pronte da essere attivate senza conoscenze e senza tempi morti.
 
-Perchè NON avere un proprio nodo Bitcoin?
+# Perchè NON avere un proprio nodo Bitcoin?
 
 Così come avere un nodo Bitcoin ha indubbiamente dei vantaggi, così senz’altro
 vi sono degli elementi da valutare prima di decidere di avere un nodo up&running
@@ -74,14 +74,14 @@ massimi mensili e/o giornalieri ed impostare il nodo di conseguenza, seguendo le
 istruzioni di questa guida, i parametri di configurazione del nodo, onde
 scongiurare il superamento di suddetti limiti.
 
-1.  **Antivirus:**
+2.  **Antivirus:**
 
 Qualche buontempone ha inserito delle parti di codice di virus nella
 blockchain.. Questo codice non può infettare in alcun modo il PC; ma qualche
 programma antivirus metterà ugualmente in quarantena i blocchi incriminati,
 rendendo quindi difficile tenere il nodo attivo.
 
-1.  **Target di attacco:**
+3.  **Target di attacco:**
 
 I nodi Bitcoin alimentano il network Bitcoin, quindi in caso di attacco al
 network Bitcoin, chi ha un nodo attivo potrebbe esserne in qualche modo vittima
@@ -90,7 +90,7 @@ potrebbero risolversi in un DDoS verso il proprio IP, quindi l’impossibilità 
 accedere al nodo oltre che ad una riduzione della banda disponibile per la
 connessione.
 
-1.  **Rischi legali**
+4.  **Rischi legali**
 
 Al momento Bitcoin e la partecipazione al network sono legali. In alcune aree
 del mondo avere un nodo Bitcoin potrebbe essere illegale, così come potrebbe
