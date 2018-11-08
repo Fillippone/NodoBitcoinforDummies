@@ -1,6 +1,10 @@
-Configurazione Iniziale Hardware
+ # Configurazione Iniziale Hardware
 
 La prima cosa da fare sarà quella di assemblare fisicamente il nodo. Il setup sotto riportato è quello che minimizza l’hardware richiesto assicurando un corretto funzionamento stabile dell’hardware.
 Per prima cosa dovremo assemblare il Raspberry. Non dovrebbe essere un problema attaccare i dissipatori ai chip seguendo le immagini dimostrative, avvitare la scheda madre al case usando le apposite viti con il cacciavite in dotazione e per ultimo chiudere il case e montare i piedini di gomma. Come vedete vi è una lunga apertura del case in corrispondenza della porta XXX del Raspberry: visto che non sarà utile nel nostro caso, si può pensare di chiuderla con del nastro adesivo, uno sticker o qualche altra decorazione: Il raffreddamento del case non ne soffrirà, ed in compenso limiteremo l’accesso alla polvere : quella è sicuramente dannosa. 
 A questo punto potremo inserire la scheda Micro SD nello slot del Raspberry. 
 A questo punto collegheremo alla micro usb di alimentazione del Raspberry uno dei due cavi di alimentazioni dell’alimentatore. L’altro invece andrà ad alimentare l’HUIB, che a sua volta collegheremo ad una delle 4 prese USB del Raspberry stesso. A questo punto sia il Raspberry che l’HUB sono correttamente alimentati, e collegati, A questo punto potremo collegare l’HD all’HUB: sarà quindi solo l’HUB ad alimentare l’Hard disk, che quindi non andrà a sottrarre amperaggio al funzionamento del Raspberry.
+Credo che sia stato tutto abbastanza facile, alla fine dovremmo avere ottenuto un setup simile al seguente: 
+
+![Non è stato difficile alla fine](images/002.%2020%20Minutes%20Later.JPG)
+
