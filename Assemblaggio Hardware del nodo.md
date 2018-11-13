@@ -1,4 +1,4 @@
-##5.Assemblare l'Hardware del nodo. ##
+## 5.Assemblaggio Hardware del nodo. ##
 
 
 A questo punto possiamo procedere ad assemblare il nodo, il Raspberry è funzionante, quindi possiamo mettere assieme l'hardware del nodo.
@@ -18,5 +18,6 @@ Credo che sia stato tutto abbastanza facile, alla fine dovremmo avere ottenuto u
 
 ![Non è stato difficile alla fine](/images/003.20MinutesLater.JPG)
 ###### Figura 3. That was easy #######
+
 
 Non dovrebbe essere stato difficile, ma non riposiamo sugli allori ed andaimo oltre verso parti ben più ostiche. 
