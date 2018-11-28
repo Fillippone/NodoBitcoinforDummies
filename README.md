@@ -1,4 +1,6 @@
-[***Introduzione***] -- [ [ Perché avere un nodo Bitcoin](01.PerchèavereunnodoBitcoin.md) ] -- [ [Preparativi](02.Preparativi.md) ]  -- [ [Hardware](03.Configurazioneinizialedell'Hardware.md) ] -- [ [Raspberry PI](04.ConfigurazioneInizialedell'HardwareRaspberryPI.md ) ] -- [ [HW Nodo](05.AssemblaggioHardwaredelnodo.md) ] -- [ [SW Nodo](06.ConfigurazioneRaspberryPi.md) ] -- [ [FAQ] ] -- [ [TO DO]]
+
+[ ***Introduzione***] -- [ [ Perché avere un nodo Bitcoin](01.PerchèavereunnodoBitcoin.md) ] -- [ [Preparativi](02.Preparativi.md) ]  -- [ [Hardware](03.Configurazioneinizialedell'Hardware.md) ] -- [ [Raspberry PI](04.ConfigurazioneInizialedell'HardwareRaspberryPI.md ) ] -- [ [HW Nodo](05.AssemblaggioHardwaredelnodo.md) ] -- [ [SW Nodo](06.ConfigurazioneRaspberryPi.md) ] -- [ [FAQ] ] -- [ [TO DO]]
+
 -------
 
 
