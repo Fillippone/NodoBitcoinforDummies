@@ -64,5 +64,5 @@ Tutti i crediti vanno a Stadicus, e gli errori, ovviamente, sono miei.
 
 
 
-Avanti: [1.Perchè avere un nodo Bitcoin](/1.Perchè%20avere%20un%20nodo%20Bitcoin.md
+Avanti: [1.Perchè avere un nodo Bitcoin](01.PerchèavereunnodoBitcoin.md
 )
