@@ -1,5 +1,5 @@
 
-[ [Introduzione](README.md) ] -- [ [ Perché avere un nodo Bitcoin](01.Perchè_avere_un_nodo_Bitcoin.md) ] -- [ [Preparativi](02.Preparativi.md) ]  -- [ [Hardware](03.Configurazione_iniziale_dell'Hardware.md) ] -- [ [Raspberry PI](04.Configurazione_Iniziale_dell'Hardware_RaspberryPI.md ) ] -- [ [HW Nodo](05.Assemblaggio_Hardware_del_nodo.md) ] -- [ [SW Nodo](06.Configurazione_RaspberryPi.md) ] -- [ [FAQ] ] -- [ [TO DO]]
+[***Introduzione***] -- [ [Perché avere un nodo Bitcoin](01.Perchè_avere_un_nodo_Bitcoin.md) ] -- [ [Preparativi](02.Preparativi.md) ]  -- [ [Hardware](03.Configurazione_iniziale_dell'Hardware.md) ] -- [ [Raspberry PI](04.Configurazione_Iniziale_dell'Hardware_RaspberryPI.md ) ] -- [ [HW Nodo](05.Assemblaggio_Hardware_del_nodo.md) ] -- [ [SW Nodo](06.Configurazione_RaspberryPi.md) ] -- [ [Bitcoin](07.Bitcoin.md)] -- [ [Lightning](08.Lightning.md) ] -- [ [FAQ](099.FAQ.md) ] -- [ [TO DO](999.2do.md) ]
 
 -------
 
@@ -63,5 +63,5 @@ diciamo che condividendone ampiamente gli obiettivi, ho provato a farne una "ver
 Tutti i crediti vanno a Stadicus, e gli errori, ovviamente, sono miei. 
 
 
-
+---
 Avanti: [1.Perchè avere un nodo Bitcoin](01.Perchè_avere_un_nodo_Bitcoin.md)
