@@ -7,8 +7,8 @@
 
 # Perché questa guida.
 
-*(pippone filosofico ed introduttivo saltare a piè pari per andare subito
-all’azione)*
+*Digressione filosofica ed introduttiva. Saltare a piè pari per andare subito
+all’azione*
 
 Bitcoin mi ha dato tanto. Non solo in termini monetari, ma sopratutto la possibilità di
 allargare i miei orizzonti, pensare in modo diverso dagli schemi prevalenti ed
