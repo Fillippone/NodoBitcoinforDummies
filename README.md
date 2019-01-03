@@ -32,7 +32,7 @@ successiva sono tante le ragioni per avere un nodo, e poche quelle per cui forse
 non ne vale la pena. Quindi il bilancio è sicuramente a favore dell’averlo.
 
 L’idea della guida è quindi venuta fuori mentre cercavo di raccapezzarmi tra le
-varie fonti trovate su internet, github, youtube etc. ognuna con le proprie
+varie fonti trovate su internet, github, il forum di butcointalk, youtube etc. ognuna con le proprie
 peculiarità, punti di forza e debolezza, determinate soprattutto rispetto al
 pubblico cui si rivolgevano.
 
