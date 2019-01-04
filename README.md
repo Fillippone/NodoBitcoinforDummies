@@ -32,7 +32,7 @@ successiva sono tante le ragioni per avere un nodo, e poche quelle per cui forse
 non ne vale la pena. Quindi il bilancio è sicuramente a favore dell’averlo.
 
 L’idea della guida è quindi venuta fuori mentre cercavo di raccapezzarmi tra le
-varie fonti trovate su internet, github, il forum di bitcointalk, youtube etc. ognuna con le proprie
+varie fonti trovate su internet, github, il forum di bitcointalk, youtube etc, ognuna con le proprie
 peculiarità, punti di forza e debolezza, determinate soprattutto rispetto al
 pubblico cui si rivolgevano.
 
@@ -56,7 +56,7 @@ le difficoltà della guida saranno quindi le mie difficoltà incontrate.
 
 La fonte principale di questa guida è la guida migliore che ho trovato, ovvero quella di Stadicus: 
 
-[Beginner’s Guide to ️⚡Lightning️⚡ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
+[Beginner’s Guide to ⚡Lightning️⚡ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
 
 diciamo che condividendone ampiamente gli obiettivi, ho provato a farne una "versione italiana", secondo i miei criteri un pò migliorata colmandone quelle che secondo me ne erano le pochissime lacune. 
 
