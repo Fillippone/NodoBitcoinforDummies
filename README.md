@@ -10,7 +10,7 @@
 all’azione.*
 
 
-Bitcoin mi ha dato tanto. Non solo in termini monetari, ma sopratutto la possibilità di
+Bitcoin mi ha dato tanto. Non solo in termini monetari, ma soprattutto la possibilità di
 allargare i miei orizzonti, pensare in modo diverso dagli schemi prevalenti ed
 approcciarmi in modo critico a dei concetti che avevo sempre dato, nonostante la
 mia formazione, piuttosto scontati.
@@ -32,7 +32,7 @@ successiva sono tante le ragioni per avere un nodo, e poche quelle per cui forse
 non ne vale la pena. Quindi il bilancio è sicuramente a favore dell’averlo.
 
 L’idea della guida è quindi venuta fuori mentre cercavo di raccapezzarmi tra le
-varie fonti trovate su internet, github, il forum di bitcointalk, youtube etc, ognuna con le proprie
+varie fonti trovate su internet, Github, il forum di Bitcointalk.org, Youtube etc, ognuna con le proprie
 peculiarità, punti di forza e debolezza, determinate soprattutto rispetto al
 pubblico cui si rivolgevano.
 
@@ -48,7 +48,7 @@ utente poco esperto, dall’idea di partecipare al network bitcoin, fino alla su
 completa realizzazione, passo-passo, senza tralasciare nessun passaggio che,
 seppur logico o necessario, potrebbe lasciare interdetto un utente meno smaliziato.
 
-La mole di lavoro è tanta, e spesso quando ci si imbarca in queste guide non è ben chiaro quanto sia in effetti impegnativo effettuare tutti i passaggi. Certo che la ricompensa è grande: aumentare l'antifragilità della rete bitcoin contribuendo in prima persona alla creazione del consenso. diciamo quindi che il mio obiettivo è quello di provare ad invogliare quelli che come me sono stati troppo a lungo indecisi sul bordo del "lo faccio o non lo faccio" provando, con una guida chiara, completa e sopratutto onesta, a farli propendere per la decisione...giusta. 
+La mole di lavoro è tanta, e spesso quando ci si imbarca in queste guide non è ben chiaro quanto sia in effetti impegnativo effettuare tutti i passaggi. Certo che la ricompensa è grande: aumentare l'antifragilità della rete bitcoin contribuendo in prima persona alla creazione del consenso. diciamo quindi che il mio obiettivo è quello di provare ad invogliare quelli che come me sono stati troppo a lungo indecisi sul bordo del "lo faccio o non lo faccio" provando, con una guida chiara, completa e soprattutto onesta, a farli propendere per la decisione...giusta. 
 
 Per assicurarmi di questo ho pensato di redigere questa guida come un “diario di bordo”, ovvero sarò io in prima persona a
 mettere online un nodo, il mio primo nodo tra l'altro, annotando allo stesso tempo tutti i passaggi effettuati:
