@@ -56,7 +56,7 @@ le difficoltà della guida saranno quindi le mie difficoltà incontrate.
 
 La fonte principale di questa guida è la guida migliore che ho trovato, ovvero quella di Stadicus: 
 
-[Beginner’s Guide to ⚡Lightning️⚡ on a Raspberry Pi](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
+[Beginner’s Guide to ⚡Lightning️⚡ on a Raspberry Pi](https://raspibolt.github.io/raspibolt/)
 
 diciamo che condividendone ampiamente gli obiettivi, ho provato a farne una "versione italiana", secondo i miei criteri un pò migliorata colmandone quelle che secondo me ne erano le pochissime lacune. 
 
